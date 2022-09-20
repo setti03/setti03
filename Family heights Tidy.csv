@@ -1,32 +1,32 @@
 ﻿Person,Height(Inches),Family
-Male,78.5,Dad
-Male,75.5,Dad
-Male,75,Dad
-Male,75,Dad
-Male,75,Dad
-Female,67,Mom
-Female,66.5,Mom
-Female,64,Mom
-Female,64,Mom
-Female,58.5,Mom
-Male,73.2,Brother
-Male,73.5,Brother
-Male,72.5,Brother
-Male,71,Brother
-Male,70.5,Brother
-Male,68.5,Brother
-Male,72,Brother
-Male,69,Brother
-Male,68,Brother
-Female,69.2,Sister
-Female,69,Sister
-Female,69,Sister
-Female,65.5,Sister
-Female,65.5,Sister
-Female,68,Sister
-Female,67,Sister
-Female,64.5,Sister
-Female,63,Sister
-Female,66.5,Sister
-Female,62.5,Sister
-Female,62.5,Sister
+Father,78.5,"""The Galton's"""
+Father,75.5,"""The Galton's"""
+Father,75,"""The Galton's"""
+Father,75,"""The Galton's"""
+Father,75,"""The Galton's"""
+Mother,67,"""The Galton's"""
+Mother,66.5,"""The Galton's"""
+Mother,64,"""The Galton's"""
+Mother,64,"""The Galton's"""
+Mother,58.5,"""The Galton's"""
+Son,73.2,"""The Galton's"""
+Son,73.5,"""The Galton's"""
+Son,72.5,"""The Galton's"""
+Son,71,"""The Galton's"""
+Son,70.5,"""The Galton's"""
+Son,68.5,"""The Galton's"""
+Son,72,"""The Galton's"""
+Son,69,"""The Galton's"""
+Son,68,"""The Galton's"""
+Daughter,69.2,"""The Galton's"""
+Daughter,69,"""The Galton's"""
+Daughter,69,"""The Galton's"""
+Daughter,65.5,"""The Galton's"""
+Daughter,65.5,"""The Galton's"""
+Daughter,68,"""The Galton's"""
+Daughter,67,"""The Galton's"""
+Daughter,64.5,"""The Galton's"""
+Daughter,63,"""The Galton's"""
+Daughter,66.5,"""The Galton's"""
+Daughter,62.5,"""The Galton's"""
+Daughter,62.5,"""The Galton's"""
